@@ -1,0 +1,5 @@
+Manifest-Version: 2.0
+Created-By: Richard Andrade
+Main-Class: Bienvenida
+X-COMMET: Aplicación Java Coca-Cola
+
